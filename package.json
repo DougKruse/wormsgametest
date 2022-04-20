@@ -1,0 +1,14 @@
+{
+  "name": "gameproj-app",
+  "version": "1.0.0",
+  "description": "\"wormslike game project\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "dougkruse",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^18.0.3"
+  }
+}

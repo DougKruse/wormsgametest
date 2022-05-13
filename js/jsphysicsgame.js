@@ -194,7 +194,7 @@ function setup(){
         moveOriginY = worldScene.y;
         clickStartX = e.global.x;
         clickStartY = e.global.y;
-    })
+    });
 
     //
     //BACKGROUND STUFF
